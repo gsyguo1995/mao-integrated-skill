@@ -30,8 +30,8 @@
 ### 1. 安装
 
 ```bash
-git clone https://github.com/<you>/mao-integrated-skill.git ~/.agents/skills/mao
-cd mao-integrated-skill
+git clone https://github.com/gsyguo1995/mao-integrated-skill.git ~/.agents/skills/mao
+cd ~/.agents/skills/mao
 pip install -r requirements.txt
 ```
 
